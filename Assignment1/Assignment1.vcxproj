@@ -139,10 +139,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Rails.cpp" />
+    <ClCompile Include="InformedSearch.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Assignment1.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="e.txt" />
+    <Text Include="graph.txt" />
+    <Text Include="v.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

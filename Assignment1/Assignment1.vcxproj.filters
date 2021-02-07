@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Rails.cpp">
+    <ClCompile Include="InformedSearch.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -23,5 +23,10 @@
     <ClInclude Include="Assignment1.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="e.txt" />
+    <Text Include="graph.txt" />
+    <Text Include="v.txt" />
   </ItemGroup>
 </Project>
